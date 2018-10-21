@@ -1,4 +1,15 @@
-body{margin:0}
+body{
+	margin:0;
+	font-family:sans-serif;
+}
+.intro-text{
+	color:white;
+	font-size:2em;
+	position:absolute;
+	text-align:center;
+	top:3%;
+	right:3%;
+}
 .fullscreen-bg {
 	position: fixed;
 	top: 0;
